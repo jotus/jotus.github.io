@@ -1,34 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wojciech Przechrzta</title>
-    <link>https://jotus.github.io/</link>
-    <description>Recent content on Wojciech Przechrzta</description>
+    <title>Tops on Wojciech Przechrzta</title>
+    <link>https://jotus.github.io/top/</link>
+    <description>Recent content in Tops on Wojciech Przechrzta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jotus.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotus.github.io/top/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Welcome to Wojciech Przechrzta Blog</title>
-      <link>https://jotus.github.io/2017/11/03/hello-world/</link>
-      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jotus.github.io/2017/11/03/hello-world/</guid>
-      <description>  “Yeah It&amp;rsquo;s on. ”
- Hello World! </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jotus.github.io/search/placeholder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jotus.github.io/search/placeholder/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>
